@@ -31,7 +31,7 @@
 - Working with Large objects - files and images
 - CLOB - Character Large Objects
 - BLOB - Binary Large Objects
-# ANNOTATIONS
+## ANNOTATIONS
 - Introduction to Annotations
 -Format of the Annotations
 - Types of Annotations
@@ -47,16 +47,16 @@ Annotation of Annotations
 @Target
 @Documented
 Repeating Annotations
-SERVLET
-Introduction to Servlet
-Why Servlet? - technologies before servlet and their disadvantages
-Overview of Servlet API(javax.servlet package)
-Servlet
-GenericServlet
-ServletException
-ServletConfig and ServletContext
-RequestDispatcher
-include 
+## SERVLET
+- Introduction to Servlet
+- Why Servlet? - technologies before servlet and their disadvantages
+- Overview of Servlet API(javax.servlet package)
+- Servlet
+- GenericServlet
+- ServletException
+- ServletConfig and ServletContext
+- RequestDispatcher
+- include 
 forward
 HttpServlet
 HttpServletRequest
@@ -76,7 +76,7 @@ Servlet Chaining
 Filter Chaining
 Difference between Servlet and Filter chaining
 Login, Registration example using Servlet and JDBC
-JSP
+## JSP
 Introduction to JSP
 JSP life cycle and architecture
 Typical request response processing in JSP
@@ -101,27 +101,28 @@ Servlet Scopes
 JSP Scopes
 MVC Architecture
 Dynamic Web Application on Servlet, JSP and JDBC
-EXPRESSION LANGUAGE - EL
-Introduction to EL
-EL implicit objects
-EL - String, Wrappers and Date
-EL - Collection of String, Wrappers and Date
-EL - User defined objects
-EL - Collection of user defined objects
-EL - Map objects
-EL - Collection of Map objects
+## EXPRESSION LANGUAGE - EL
+- Introduction to EL
+- EL implicit objects
+- EL - String, Wrappers and Date
+- EL - Collection of String, Wrappers and Date
+- EL - User defined objects
+- EL - Collection of user defined objects
+- EL - Map objects
+- EL - Collection of Map objects
 
-JSTL - JAVA SERVER PAGES STANDARD TAG LIBRARY
-JSTL Core Tags
-JSTL Custom Tags
-MAJOR PROJECT DEVELOPMENT
-Three tier architecture
-MVC architecture in presentation layer
-HTML, CSS, JavaScript, JSP and Servlet to develop presentation layer
-JDBC for Data access layer
-Data validation and exception handling
-TOOLS FOR PROJECT DEVELOPMENT
-IDE - Eclipse Photon
-Application Server - Apache Tomcat 9
-Database - MySQL/H2 database
+## JSTL - JAVA SERVER PAGES STANDARD TAG LIBRARY
+- JSTL Core Tags
+- JSTL Custom Tags
+
+## MAJOR PROJECT DEVELOPMENT
+- Three tier architecture
+- MVC architecture in presentation layer
+- HTML, CSS, JavaScript, JSP and Servlet to develop presentation layer
+- JDBC for Data access layer
+- Data validation and exception handling
+### TOOLS FOR PROJECT DEVELOPMENT
+- IDE - Eclipse Photon
+- Application Server - Apache Tomcat 9
+- Database - MySQL/H2 database
 
