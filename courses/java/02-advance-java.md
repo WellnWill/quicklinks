@@ -3,12 +3,12 @@
 - Introduction to JDBC
 - Overview of JDBC Architecture
 - JDBC API(java.sql package)
-- DriverManager class
-- Connection interface
-- Statement interface
-- PreparedStatement interface
-- CallableStatement interface
-- ResultSet interface
+  - DriverManager class
+  - Connection interface
+  - Statement interface
+  - PreparedStatement interface
+  - CallableStatement interface
+  - ResultSet interface
 - Basic JDBC steps to work with any relational database
 - JDBC Drivers and it’s various types - Type I, II, III, IV
 - DDL(Data Definition Language) operations
@@ -16,21 +16,21 @@
 - Drop table and
 - Alter table
 - Truncate table
-DML(Data Modification Language) operations
-Select records from the table
-Insert records into table,
-Update records and
-Delete records
-Batch processing - Bulk operations
-Batch processing using Statement
-Batch processing using PreparedStatement
-Metadata
-DatabaseMetaData and
-ResultSetMetaData
-Transaction processing in JDBC
-Working with Large objects - files and images
-CLOB - Character Large Objects
-BLOB - Binary Large Objects
+- DML(Data Modification Language) operations
+  - Select records from the table
+  - Insert records into table,
+  - Update records and
+  - Delete records
+- Batch processing - Bulk operations
+- Batch processing using Statement
+- Batch processing using PreparedStatement
+- Metadata
+- DatabaseMetaData and
+- ResultSetMetaData
+- Transaction processing in JDBC
+- Working with Large objects - files and images
+- CLOB - Character Large Objects
+- BLOB - Binary Large Objects
 # ANNOTATIONS
 - Introduction to Annotations
 -Format of the Annotations
