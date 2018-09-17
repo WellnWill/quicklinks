@@ -1,8 +1,8 @@
 # Advance Java
-JDBC - Java Database Connectivity
-Introduction to JDBC
-Overview of JDBC Architecture
-JDBC API(java.sql package)
+## JDBC - Java Database Connectivity
+- Introduction to JDBC
+- Overview of JDBC Architecture
+- JDBC API(java.sql package)
 DriverManager class
 Connection interface
 Statement interface
