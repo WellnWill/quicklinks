@@ -31,22 +31,24 @@
 - Working with Large objects - files and images
 - CLOB - Character Large Objects
 - BLOB - Binary Large Objects
+
 ## ANNOTATIONS
 - Introduction to Annotations
--Format of the Annotations
+- Format of the Annotations
 - Types of Annotations
-Predefined annotations
-@Override
-@Deprecated
-@SupressWarnnings
-Custom or user defined annotations
-Example of creating and using @ClassInfo annotation
-Example of creating, using and processing @Test annotation
-Annotation of Annotations
-@Retention
-@Target
-@Documented
-Repeating Annotations
+- Predefined annotations
+- @Override
+- @Deprecated
+- @SupressWarnnings
+- Custom or user defined annotations
+- Example of creating and using @ClassInfo annotation
+- Example of creating, using and processing @Test annotation
+- Annotation of Annotations
+- @Retention
+- @Target
+- @Documented
+- Repeating Annotations
+
 ## SERVLET
 - Introduction to Servlet
 - Why Servlet? - technologies before servlet and their disadvantages
@@ -56,51 +58,53 @@ Repeating Annotations
 - ServletException
 - ServletConfig and ServletContext
 - RequestDispatcher
-- include 
-forward
-HttpServlet
-HttpServletRequest
-HttpServletResponse
-HttpSession
-Typical request response processing in Servlet
-Servlet life cycle
-Application Server, Web Container and Web Component
-Introduction to Static Web Applications
-Introduction to Dynamic Web Applications
-Difference between forward and sendRedirect
-Cookies and Session tracking
-Filters
-Listeners
-Chaining
-Servlet Chaining
-Filter Chaining
-Difference between Servlet and Filter chaining
-Login, Registration example using Servlet and JDBC
+  - include 
+  - forward
+- HttpServlet
+- HttpServletRequest
+- HttpServletResponse
+- HttpSession
+- Typical request response processing in Servlet
+- Servlet life cycle
+- Application Server, Web Container and Web Component
+- Introduction to Static Web Applications
+- Introduction to Dynamic Web Applications
+- Difference between forward and sendRedirect
+- Cookies and Session tracking
+- Filters
+- Listeners
+- Chaining
+- Servlet Chaining
+- Filter Chaining
+- Difference between Servlet and Filter chaining
+- Login, Registration example using Servlet and JDBC
+
 ## JSP
-Introduction to JSP
-JSP life cycle and architecture
-Typical request response processing in JSP
-JSP implicit objects
-JSP scripting elements(syntax, example and internal processing)
-Scriptlets
-Expressions
-Declarations
-JSP Directives
-Include directive
-Page directive
-Taglib directive
-JSP Standard Actions
-<jsp:include>,
-<jsp:forward>
-<jsp:param>
-<jsp:useBean>
-<jsp:setProperty> and <jsp:getProperty>
-Difference between include directive and include action
-Scopes
-Servlet Scopes
-JSP Scopes
-MVC Architecture
-Dynamic Web Application on Servlet, JSP and JDBC
+- Introduction to JSP
+- JSP life cycle and architecture
+- Typical request response processing in JSP
+- JSP implicit objects
+- JSP scripting elements(syntax, example and internal processing)
+- Scriptlets
+- Expressions
+- Declarations
+- JSP Directives
+- Include directive
+- Page directive
+- Taglib directive
+- JSP Standard Actions
+  - <jsp:include>,
+  - <jsp:forward>
+  - <jsp:param>
+  - <jsp:useBean>
+  - <jsp:setProperty> and <jsp:getProperty>
+- Difference between include directive and include action
+- Scopes
+- Servlet Scopes
+- JSP Scopes
+- MVC Architecture
+- Dynamic Web Application on Servlet, JSP and JDBC
+
 ## EXPRESSION LANGUAGE - EL
 - Introduction to EL
 - EL implicit objects
