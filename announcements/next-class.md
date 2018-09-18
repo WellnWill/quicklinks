@@ -16,4 +16,4 @@
 ---
 > **Note:** Timings get update on late evening of every **Thursday**, so visit this page on **Friday** for more accurate information.
 
-[Download PDF](https://gitprint.com/WellnWill/quicklinks/blob/master/announcement/next-class.md)
+[Download PDF](https://gitprint.com/WellnWill/quicklinks/blob/master/announcements/next-class.md)
