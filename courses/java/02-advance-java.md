@@ -130,4 +130,4 @@
 - Application Server - Apache Tomcat 9
 - Database - MySQL/H2 database
 
-[Download PDF](https://gitprint.com/WellnWill/quicklinks/edit/master/courses/java/02-advance-java.md)
+[Download PDF](https://gitprint.com/WellnWill/quicklinks/blob/master/courses/java/02-advance-java.md)
