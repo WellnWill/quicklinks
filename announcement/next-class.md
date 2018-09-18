@@ -1,6 +1,6 @@
 # NEXT CLASS
 ## Saturday, September 22, 2018
-| Batch     | Topics            | Batch Timings           | More Information|
+| Batch     | Topics            | Timings                 | More Information|
 |:----------|:------------------|:------------------------|:---------------:|
 | JM2008    | JSP               | 08:30 AM to 10:30 AM    | NA              |
 | JM2009    | JDBC              | 10:30 AM to 12:30 PM    | NA              |
