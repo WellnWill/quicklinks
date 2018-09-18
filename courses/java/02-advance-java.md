@@ -1,5 +1,4 @@
 ![ADVANCE JAVA](/assests/advance-java-banner.png)
-<img align="centre" src="/assests/advance-java-banner.png" alt="ADVANCE JAVA">
 ## JDBC - Java Database Connectivity
 - Introduction to JDBC
 - Overview of JDBC Architecture
