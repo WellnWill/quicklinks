@@ -1,4 +1,4 @@
-# Advance Java ([Download PDF](https://gitprint.com/WellnWill/quicklinks/edit/master/courses/java/02-advance-java.md))
+# ADVANCE JAVA
 ## JDBC - Java Database Connectivity
 - Introduction to JDBC
 - Overview of JDBC Architecture
