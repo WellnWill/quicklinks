@@ -7,5 +7,5 @@ Quick links tries to simplify your life by providing all required links(URLs) at
 
 
 ## Sample Resumes
-- [Sample Resume - Fresher](https://docs.google.com/document/d/1s-t_8Zn5m3_D5vxEvTm-CKGQTTw03Y1GPWnxGwed1j4/edit?usp=sharing)
-- Sample Resume - Experienced (**_coming soon..._**)
+- [:clipboard: Sample Resume - Fresher](https://docs.google.com/document/d/1s-t_8Zn5m3_D5vxEvTm-CKGQTTw03Y1GPWnxGwed1j4/edit?usp=sharing)
+- :clipboard: Sample Resume - Experienced (**_coming soon..._**)
