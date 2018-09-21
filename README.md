@@ -1,4 +1,7 @@
 # Quick Links
+Quick links tries to simplify your life by providing all required links(URLs) at one place so that you don't have to remember or bookmark many many internet links.
+
+## Batch
 - [Next Class](https://github.com/WellnWill/quicklinks/blob/master/announcements/next-class.md)
 - [Advance Java Course Content](https://github.com/WellnWill/quicklinks/blob/master/courses/java/02-advance-java.md)
 
