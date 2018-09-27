@@ -1,5 +1,5 @@
 # :date: NEXT CLASS
-> **Note:** Timings get update on late evening of every **Thursday**, so visit this page on **Friday** for more accurate information.
+> **Note:** Timings get updated on late evening of every **Thursday**, so visit this page on **Friday** and **Saturday** for more accurate information.
 ---
 ## Saturday, September 22, 2018
 | Batch     | Topics            | Timings                 | More Information|
