@@ -4,9 +4,9 @@
 ## Saturday, October 6, 2018
 | Batch     | Topics            | Timings                 | More Information|
 |:----------|:------------------|:------------------------|:---------------:|
-| JM2008    | Project                | 08:30 AM to 10:00 AM    | NA              |
-| JM2009    | Annotations              | 10:00 AM to 12:00 PM    | NA              |
-| JM3006    | Spring-Hibernate Integration         | 12:00 PM to 02:00 PM    | NA          |
+| JM2008    | Project                | -   | No class              |
+| JM2009    | Annotations              | -   | No class              |
+| JM3006    | Spring-Hibernate Integration         | -    | No class          |
 
 ## Sunday, October 7, 2018
 | Batch     | Topics            | Timings                 | More Information|
