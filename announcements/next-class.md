@@ -13,7 +13,7 @@
 |:----------|:------------------|:------------------------|:---------------:|
 | JM2008    | Project   | 08:30 AM to 10:00 AM    | NA              |
 | JM2009    | Servlets        | 10:00 AM to 12:00 PM    | NA              |
-[comment]: <> (| JM3006    | Spring Boot & REST   | 04:30 PM to 06:30 PM    | NA              |) 
+[comment]: <> (foo bar) 
 
 ---
 [Download PDF](https://gitprint.com/WellnWill/quicklinks/blob/master/announcements/next-class.md)
