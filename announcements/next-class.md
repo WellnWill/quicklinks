@@ -6,14 +6,13 @@
 |:----------|:------------------|:------------------------|:---------------:|
 | JM2008    | Project                | 08:30 AM to 10:00 AM   | NA              |
 | JM2009    | Servlets              | 10:00 AM to 12:00 PM   | NA              |
-| JM3006    | Spring Boot & REST         | 04:30 PM to 06:30 PM    | NA          |
+| JM3006    | Spring Boot & REST         | 04:30 PM to 06:30 PM    | Online          |
 
 ## Sunday, October 21, 2018
 | Batch     | Topics            | Timings                 | More Information|
 |:----------|:------------------|:------------------------|:---------------:|
 | JM2008    | Project   | 08:30 AM to 10:00 AM    | NA              |
-| JM2009    | Servlets        | 10:00 AM to 12:00 PM    | NA              |
-[comment]: <> (foo bar) 
+| JM2009    | Servlets        | 10:00 AM to 12:00 PM    | NA              | 
 
 ---
 [Download PDF](https://gitprint.com/WellnWill/quicklinks/blob/master/announcements/next-class.md)
