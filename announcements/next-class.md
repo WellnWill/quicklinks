@@ -4,7 +4,6 @@
 ## Sunday, October 28, 2018
 | Batch     | Topics            | Timings                 | More Information|
 |:----------|:------------------|:------------------------|:---------------:|
-| JM2008    | Project   | 03:00 PM to 04:00 PM    | Online              |
 | JM2009    | Servlets        | 04:00 PM to 05:30 PM    | Online              |
 | JM3006    | Spring Boot & REST         | 05:30 PM to 06:30 PM    | Online          |
 
