@@ -1,4 +1,4 @@
-![ADVANCE JAVA](/assests/advance-java-banner.png)
+# Module 2: ADVANCE JAVA
 ## JDBC - Java Database Connectivity
 - Introduction to JDBC
 - Overview of JDBC Architecture
