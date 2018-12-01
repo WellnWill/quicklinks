@@ -1,4 +1,4 @@
-# Java Module 3 -JAVA FRAMEWORKS
+# Java Module 3 - JAVA FRAMEWORKS
 
 ## SPRING FRAMEWORK
 ### Introduction to Spring Framework
