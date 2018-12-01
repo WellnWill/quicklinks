@@ -3,7 +3,8 @@ Quick links tries to simplify your life by providing all required links(URLs) at
 
 ## Batch
 - [Next Class](https://github.com/WellnWill/quicklinks/blob/master/announcements/next-class.md)
-- [Advance Java Course Content](https://github.com/WellnWill/quicklinks/blob/master/courses/java/02-advance-java.md)
+- [Advance Java Course Content](https://github.com/WellnWill/quicklinks/blob/master/courses/java/02-advance-java.md) [Download PDF](https://gitprint.com/WellnWill/quicklinks/blob/master/courses/java/02-advance-java.md)
+- [Java Frameworks Course Content](https://github.com/WellnWill/quicklinks/blob/master/courses/java/03-java-frameworks.md) [Download PDF](https://gitprint.com/WellnWill/quicklinks/blob/master/courses/java/03-java-frameworks.md)
 
 
 ## Sample Resumes
